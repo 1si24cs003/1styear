@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737641838 source:c:\users\shari\onedrive\desktop\railways book proj\code block train\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
